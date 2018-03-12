@@ -2,7 +2,7 @@ title: Optional parameter missing
 description: lake, soft
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-leap-day
+theme: minima
 
 gems:
   - jekyll-mentions
