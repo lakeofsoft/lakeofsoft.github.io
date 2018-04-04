@@ -7,7 +7,7 @@ categories: los
 
 This must have been done long time ago. VC should have went public years ago.
 
-And a long journey has finally reached it's next stop: https://github.com/lakeofsoft/vcp
+And a long journey has finally reached it's next stop: <a href="https://github.com/lakeofsoft/vcp">github.com/lakeofsoft/vcp</a>
 
 Complete sources of VC components, including RTSP, conference and all the enterprise stuff is now public under Apache 2.0 licence.
 
