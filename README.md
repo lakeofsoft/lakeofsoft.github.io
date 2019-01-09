@@ -1,2 +1,1 @@
-
-http://lakeofsoft.github.io/
+every blog has a source
