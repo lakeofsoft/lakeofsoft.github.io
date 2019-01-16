@@ -1,0 +1,2 @@
+# lakeofsoft.github.io
+blog
