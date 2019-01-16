@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Every blog has a source</title>
+    <link>http://lakeofsoft.github.io/</link>
+    <description>Recent content on Every blog has a source</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Jan 2019 17:17:42 -0800</lastBuildDate>
+    
+	<atom:link href="http://lakeofsoft.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Quote of the blog</title>
+      <link>http://lakeofsoft.github.io/posts/quote_19_01_15/</link>
+      <pubDate>Tue, 15 Jan 2019 17:17:42 -0800</pubDate>
+      
+      <guid>http://lakeofsoft.github.io/posts/quote_19_01_15/</guid>
+      <description> The major difference between a thing that might go wrong and a thing that cannot possibly go wrong is that when a thing that cannot possibly go wrong goes wrong it usually turns out to be impossible to get at and repair. 1
+  Douglas Adams [return]   </description>
+    </item>
+    
+  </channel>
+</rss>
